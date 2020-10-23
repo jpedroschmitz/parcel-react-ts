@@ -1,3 +1,3 @@
 # parcel-react-ts
 
-This repo is a small TypeScript React application;
+Starter project for using React and TypeScript with Parcel.
